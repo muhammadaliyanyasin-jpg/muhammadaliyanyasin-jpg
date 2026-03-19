@@ -1,12 +1,12 @@
  Hi there 👋! I'm Aliyan Yasin
  # 💫 About Me:
  
-🔭 Working on scalable web apps, AI integrations, and eCommerce solutions
-👯 Looking to collaborate on modern web, AI, and automation projects
-🤝 Looking for help with advanced AI systems and large-scale architectures
-🌱 Learning AI, automation (n8n), and performance optimization
-💬 Ask me about web dev, eCommerce, ads, and automation
-⚡ Fun fact: Hafiz-e-Quran with strong discipline and consistency
+* 🔭 Working on scalable web apps, AI integrations, and eCommerce solutions
+* 👯 Looking to collaborate on modern web, AI, and automation projects
+* 🤝 Looking for help with advanced AI systems and large-scale architectures
+* 🌱 Learning AI, automation (n8n), and performance optimization
+* 💬 Ask me about web dev, eCommerce, ads, and automation
+* ⚡ Fun fact: Hafiz-e-Quran with strong discipline and consistency
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadaliyanyasin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadaliyanyasin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aliyan-yasin-) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.aliyan.yasin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muhammadaliyanyasin) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aliyan Yasin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadaliyanyasin@gmail.com) 
